@@ -1,0 +1,11 @@
+Manifest.toml
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+.vscode/
+.DS_Store
+# dados do TSE (grandes e públicos) e arquivos intermediários
+data/
+resultados/*.log
+resultados/*.csv
+resultados/teste*

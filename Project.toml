@@ -1,0 +1,20 @@
+name = "pq_inferencia_ecologica"
+
+[deps]
+Arrow = "69666777-d1a9-59fb-9406-91d4454c9d45"
+Clarabel = "61c947e1-3e6d-4ee4-985a-eec8c727bd6e"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+Downloads = "f43a241f-c20a-4ad4-852c-f6b1247861c6"
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Mmap = "a63ad114-7e13-5084-954f-fe012c677804"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+ZipArchives = "49080126-0e18-4c2a-b176-c102e4b3760c"
+
+[compat]
+julia = "1.10"
